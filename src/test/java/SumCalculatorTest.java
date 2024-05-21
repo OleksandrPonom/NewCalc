@@ -24,5 +24,6 @@ class SumCalculatorTest {
 		int absoluteResult = sumCalculator.sum(3);
 		int expectedResult = 6;
 		assertEquals(absoluteResult, expectedResult);
+
 	}
 }
